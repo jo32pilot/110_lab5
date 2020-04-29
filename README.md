@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/jo32pilot/110_lab5.svg?branch=master)](https://travis-ci.org/jo32pilot/110_lab5)
+[![Build Status](https://travis-ci.com/jo32pilot/110_lab5.svg?branch=master)](https://travis-ci.com/jo32pilot/110_lab5)
